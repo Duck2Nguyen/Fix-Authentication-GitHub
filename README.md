@@ -19,5 +19,5 @@ Chạy lại 2 lệnh command sau:
 Nếu bạn clone thì sửa lại cái git thành dạng này:   
   git clone https://<token>@github.com/<username>/<tên repo>
 
-Hoặc nếu bạn đã có repo thì dùng lệnh này để sửa lại cái repo
+Hoặc nếu bạn đã có repo thì dùng lệnh này để sửa lại cái repo:
   git remote set-url origin https://<token>@github.com/<username>/< tên repo>
